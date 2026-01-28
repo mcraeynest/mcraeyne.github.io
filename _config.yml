@@ -1,0 +1,12 @@
+title: Maarten C.
+email: mcraeynest@gmail.com
+description: >-
+  Portfolio site
+baseurl: ""
+url: "mcraeyne.github.io"
+github_username: mcraeyne
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
