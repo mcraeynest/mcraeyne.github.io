@@ -1,12 +1,12 @@
 title: Maarten Craeynest
 description: Maarten's portfolio
+url: "https://mcraeynest.github.io"
 baseurl: ""
-url: "https://mcraeynest.github.io/mcraeyne.github.io/"
 remote_theme: piazzai/cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: mcraeyne portfolio
+taglong: Senior C++/Rust developer
+tagshort: C++/Rust Dev
 
 # author settings
 author:
@@ -15,25 +15,25 @@ author:
 photo: assets/files/photo.jpg
 
 joblines:
-  - University of Jekyll
-  - Department of Themes
-  - 123 Main St, Anytown, USA
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+  - Senior C++ developer
+  - Swift
+  - Avenue Adele 1, 1310 La Hulpe
+address: Leuven, Belgium
+phone: +32 474 48 05 89
 
 # profile links
 profile:
-  facebook: https://www.facebook.com/username
-  x: https://x.com/username
-  mastodon: https://mastodon.social/@username
-  bluesky: https://bsky.app/profile/username.bsky.social
-  instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
-  xing: https://www.xing.com/profile/username
-  stackoverflow: https://stackoverflow.com/users/0000000/username
-  medium: https://medium.com/@username
+  linkedin: https://www.linkedin.com/in/maarten-craeynest/
   github: https://github.com/mcraeynest
   cv: true
+  # facebook: https://www.facebook.com/username
+  # x: https://x.com/username
+  # mastodon: https://mastodon.social/@username
+  # bluesky: https://bsky.app/profile/username.bsky.social
+  # instagram: https://www.instagram.com/username
+  # xing: https://www.xing.com/profile/username
+  # medium: https://medium.com/@username
+  # stackoverflow: https://stackoverflow.com/users/0000000/username
 
 # build settings
 permalink: pretty
